@@ -13,33 +13,42 @@ We also have a forecast Sales Trend in the next year 2021 predicting next years 
 
 ### Breakdown 
 The dashboard has an option of using the drop down **All** which is hierachical choosing from year, Quarterly then Month.
+
 <img width="134" alt="dropdown " src="https://github.com/NyakioRosemary/Power-BI-Analytics-/assets/127243987/68124c28-6ef5-4c5d-a32c-ea6901fbd1f7">
 
 
 Based on the selected year we get to see that years current years sales (in this case 2019), the Budget Sales of that year, budget Sales from our projected budget, then previous year sales (in our case 2018) last thing is Sales Growth depending on current and previous year.
-![Top](C:\Users\lenovo\Downloads\Analysis\abc)
+
+<img width="634" alt="abc" src="https://github.com/NyakioRosemary/Power-BI-Analytics-/assets/127243987/a83ac1e2-bf76-47f3-b0cb-a24ba7d0d236">
 
 Then there is current Year Sales and Categories showing the revenue and percentage it has contributed.
-![cysalesvsCategories](C:\Users\lenovo\Downloads\Analysis\cat)
+<img width="189" alt="cat" src="https://github.com/NyakioRosemary/Power-BI-Analytics-/assets/127243987/59807973-72a7-457a-8f2b-7fee86fd09ea">
 
 There is an added hover option of each section showing each products; current sales, previous sales and budgeted sales. This shows revenue distribution depending on the three options.
-![cysalesvsCategories](C:\Users\lenovo\Downloads\Analysis\cathover)
 
-On the next cahrt we look at Sales growth vs current year sales of the products. 
+<img width="386" alt="cath" src="https://github.com/NyakioRosemary/Power-BI-Analytics-/assets/127243987/1a2cff81-8eb6-4fb9-97b4-8c9be5e48ebc">
+
+On the next chart we look at Sales growth vs current year sales of the products. 
 (picture in focus mode)product with the highest growth sales.
-![cysalesvsCategories](C:\Users\lenovo\Downloads\Analysis\pr)
-We have added a hovering option to show the budget variance/ projection vs the month. Shows the monthe the growth was high and when it goes down
-![cysalesvsCategories](C:\Users\lenovo\Downloads\Analysis\varb)
+
+<img width="840" alt="pr" src="https://github.com/NyakioRosemary/Power-BI-Analytics-/assets/127243987/f2535b40-5ca4-423b-a122-5d1a7a821296">
+
+We have added a hovering option to show the budget variance/ projection vs the month. Shows the month the growth was high and when it goes down
+
+<img width="446" alt="varb" src="https://github.com/NyakioRosemary/Power-BI-Analytics-/assets/127243987/7a035911-d669-4940-9035-cba1baed746d">
 
 The next is a trend monthly chart by current, previous year and budget sales. 
-![cysalesvsCategories](C:\Users\lenovo\Downloads\Analysis\month)
+
+<img width="840" alt="month" src="https://github.com/NyakioRosemary/Power-BI-Analytics-/assets/127243987/1d152380-8707-441d-85c5-7a4df6feae62">
 
 Forcasting 
 We added a forecast chart current, previous year and budget sales. Using the information there is a forcasted information of coming year 2021.
-![cysalesvsCategories](C:\Users\lenovo\Downloads\Analysis\for)
+
+<img width="836" alt="for" src="https://github.com/NyakioRosemary/Power-BI-Analytics-/assets/127243987/97a1b00c-fe56-4d2c-9135-de1dfe780ba5">
 
 The last chart is a hierachical statistic chart based month and all columns.
-![cysalesvsCategories](C:\Users\lenovo\Downloads\Analysis\for)
+
+<img width="517" alt="hie" src="https://github.com/NyakioRosemary/Power-BI-Analytics-/assets/127243987/dea58c2e-aa07-45e2-a00f-99123efd7916">
 
 ### Analysis Observation
 From the observation 2019 made the highest sales of 888 M
