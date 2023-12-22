@@ -7,15 +7,14 @@ Current Year Sales vs previous Year Sales.
 ### Dashboard Image 
 This is the view of our dashboard. Using 7 years data from 2014-2016. We created a dashboard that is interactive and filters by Category or  Product depending on budget Variance and Sales.
 We also have a forecast Sales Trend in the next year 2021 predicting next years sales using the current Year, Previous Year and Budgeted Sales.
-<img width="610" alt="dash" src="https://github.com/NyakioRosemary/Power-BI-Analytics-/assets/127243987/91f0322d-b573-4938-822e-813873063b6e">
 
-![DashboardImage](C:\Users\lenovo\Downloads\Analysis\dash)
+<img width="610" alt="dash" src="https://github.com/NyakioRosemary/Power-BI-Analytics-/assets/127243987/91f0322d-b573-4938-822e-813873063b6e">
 
 
 ### Breakdown 
 The dashboard has an option of using the drop down **All** which is hierachical choosing from year, Quarterly then Month.
+<img width="134" alt="dropdown " src="https://github.com/NyakioRosemary/Power-BI-Analytics-/assets/127243987/68124c28-6ef5-4c5d-a32c-ea6901fbd1f7">
 
-![Dropdown image](dropdown.png)
 
 Based on the selected year we get to see that years current years sales (in this case 2019), the Budget Sales of that year, budget Sales from our projected budget, then previous year sales (in our case 2018) last thing is Sales Growth depending on current and previous year.
 ![Top](C:\Users\lenovo\Downloads\Analysis\abc)
