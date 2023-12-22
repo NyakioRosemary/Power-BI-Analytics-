@@ -22,6 +22,7 @@ Based on the selected year we get to see that years current years sales (in this
 <img width="634" alt="abc" src="https://github.com/NyakioRosemary/Power-BI-Analytics-/assets/127243987/a83ac1e2-bf76-47f3-b0cb-a24ba7d0d236">
 
 Then there is current Year Sales and Categories showing the revenue and percentage it has contributed.
+
 <img width="189" alt="cat" src="https://github.com/NyakioRosemary/Power-BI-Analytics-/assets/127243987/59807973-72a7-457a-8f2b-7fee86fd09ea">
 
 There is an added hover option of each section showing each products; current sales, previous sales and budgeted sales. This shows revenue distribution depending on the three options.
