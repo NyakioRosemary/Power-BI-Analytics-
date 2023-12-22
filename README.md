@@ -8,7 +8,7 @@ Current Year Sales vs previous Year Sales.
 This is the view of our dashboard. Using 7 years data from 2014-2016. We created a dashboard that is interactive and filters by Category or  Product depending on budget Variance and Sales.
 We also have a forecast Sales Trend in the next year 2021 predicting next years sales using the current Year, Previous Year and Budgeted Sales.
 
-![DashboardImage](C:\Users\lenovo\Downloads\Analysis\Screenshot 2023-12-22 132803)
+![DashboardImage](C:\Users\lenovo\Downloads\Analysis\dash)
 
 
 ### Breakdown 
