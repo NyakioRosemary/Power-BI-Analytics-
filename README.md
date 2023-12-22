@@ -7,6 +7,7 @@ Current Year Sales vs previous Year Sales.
 ### Dashboard Image 
 This is the view of our dashboard. Using 7 years data from 2014-2016. We created a dashboard that is interactive and filters by Category or  Product depending on budget Variance and Sales.
 We also have a forecast Sales Trend in the next year 2021 predicting next years sales using the current Year, Previous Year and Budgeted Sales.
+<img width="610" alt="dash" src="https://github.com/NyakioRosemary/Power-BI-Analytics-/assets/127243987/91f0322d-b573-4938-822e-813873063b6e">
 
 ![DashboardImage](C:\Users\lenovo\Downloads\Analysis\dash)
 
