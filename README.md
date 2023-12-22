@@ -14,7 +14,7 @@ We also have a forecast Sales Trend in the next year 2021 predicting next years 
 ### Breakdown 
 The dashboard has an option of using the drop down **All** which is hierachical choosing from year, Quarterly then Month.
 
-![Dropdown image](C:\Users\lenovo\Downloads\Analysis\dropdown)
+![Dropdown image](C:\Users\lenovo\Downloads\Analysis\dropdown.png)
 
 Based on the selected year we get to see that years current years sales (in this case 2019), the Budget Sales of that year, budget Sales from our projected budget, then previous year sales (in our case 2018) last thing is Sales Growth depending on current and previous year.
 ![Top](C:\Users\lenovo\Downloads\Analysis\abc)
